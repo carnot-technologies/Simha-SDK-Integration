@@ -1,0 +1,495 @@
+{
+  "project_info": {
+    "project_number": "470009066526",
+    "firebase_url": "https://traclytics.firebaseio.com",
+    "project_id": "traclytics",
+    "storage_bucket": "traclytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:2345d503c655db4d",
+        "android_client_info": {
+          "package_name": "com.carnot.simhasdkintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:c22653964097c930736a0f",
+        "android_client_info": {
+          "package_name": "com.carnot.lib.traclytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:f3ca7ed77b1f6d5b736a0f",
+        "android_client_info": {
+          "package_name": "com.carnot.lib.traclytics.simhademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:b7f7db04e7d2cddf",
+        "android_client_info": {
+          "package_name": "com.carnot.traclytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-kdmb2bcf5j7r5elqig1juov7pk0u8889.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.traclytics",
+            "certificate_hash": "1e67ebf45f705f1475aa7bebb8139efb13c175b5"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:87f4dc6fd080f116",
+        "android_client_info": {
+          "package_name": "com.carnot.traclytics.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-lmr7hloiv4s9u7jv8mpm82ll218d5utl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.traclytics.demo",
+            "certificate_hash": "1e67ebf45f705f1475aa7bebb8139efb13c175b5"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:651a5b2af221ca6b736a0f",
+        "android_client_info": {
+          "package_name": "com.carnot.traclytics.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-cbm5j198la44hkntoc8v57rkieg6sfl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.traclytics.master",
+            "certificate_hash": "f06f4cb2784b11e4e2347e72c3bf2c8f7b54b2d9"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:d6aed977e8485eb2",
+        "android_client_info": {
+          "package_name": "com.carnot.traclytics.simha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-vt30i1rtat334p40q20eco5801tkboah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.traclytics.simha",
+            "certificate_hash": "cb345dc0679769bd4fc88365cedacaee33e149d6"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:9f504eab8e79194c",
+        "android_client_info": {
+          "package_name": "com.carnot.traclytics.simhademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-fprh2icl4a2ss92gj7nsuce5i66qc09k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.traclytics.simhademo",
+            "certificate_hash": "cb345dc0679769bd4fc88365cedacaee33e149d6"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:e2e95910d721b234",
+        "android_client_info": {
+          "package_name": "com.carnot.traclytics.swaraj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-t584sdp2163951f4dlc98sdf69m70ipu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.traclytics.swaraj",
+            "certificate_hash": "1e67ebf45f705f1475aa7bebb8139efb13c175b5"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:1721f068b84191ff",
+        "android_client_info": {
+          "package_name": "com.carnot.tractorsupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-nokejj8cqja6r6h83huu8nifnafghpo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.tractorsupport",
+            "certificate_hash": "cb345dc0679769bd4fc88365cedacaee33e149d6"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:7bec87991f8fc708",
+        "android_client_info": {
+          "package_name": "com.carnot.tractorsupport.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-epep2viitk3hqff10s01q97eskt6leia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carnot.tractorsupport.demo",
+            "certificate_hash": "cb345dc0679769bd4fc88365cedacaee33e149d6"
+          }
+        },
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470009066526:android:8e90a07f1830ec05",
+        "android_client_info": {
+          "package_name": "com.psx.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470009066526-pola25auk4hcl6dgq7bp6101meur4ptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8s3XSGPu4TIsIGQM-PETU6mUuGFE1Z_Q"
+        },
+        {
+          "current_key": "AIzaSyDivPRFPK_Zg5qYueWbXIvrGc1VqrUFRzg"
+        },
+        {
+          "current_key": "AIzaSyBZXn6SW4jV4ObiVzquq7tPAip80uWgTfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107649840137703991829",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

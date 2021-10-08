@@ -1,0 +1,3 @@
+
+rootProject.name = "Simha Sdk Integration Sample"
+include ':app'
