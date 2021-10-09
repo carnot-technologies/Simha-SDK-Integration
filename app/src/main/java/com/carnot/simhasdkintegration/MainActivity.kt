@@ -18,8 +18,8 @@ class MainActivity : Activity() {
         startActivity(Intent(this, SplashActivity::class.java).apply {
             putExtra(INTENT_APP_SOURCE, "akshaya-agri")
             putExtra(INTENT_PACKAGE_NAME, "akshaya.agri")
-            putExtra(INTENT_API_KEY, "f47ef9dc16ff4605a881a39dc7c4086a")
-            putExtra(INTENT_PHONE, "1234567890")
+            putExtra(INTENT_API_KEY, "f47ef9dc16ff4605a881a39dc7c4086a") // API-key used to call Carnot Simha api's
+            putExtra(INTENT_PHONE, "1234567890") // mobile number provided by user
         })
     }
 

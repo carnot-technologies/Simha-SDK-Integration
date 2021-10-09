@@ -7,6 +7,14 @@ buildscript {
         jcenter()
         maven {
             url "https://jitpack.io"
+            }
+        maven { url 'https://maven.fabric.io/public' }
+        maven {
+            url 'https://maven.fabric.io/public'
+        }
+
+        maven{
+            url 'https://sdk.uxcam.com/android/'
         }
     }
     dependencies {
@@ -29,6 +37,14 @@ allprojects {
         maven {
             url "https://jitpack.io"
             credentials { username authToken }
+        }
+        maven { url 'https://maven.fabric.io/public' }
+        maven {
+            url 'https://maven.fabric.io/public'
+        }
+
+        maven{
+            url 'https://sdk.uxcam.com/android/'
         }
     }
 }
