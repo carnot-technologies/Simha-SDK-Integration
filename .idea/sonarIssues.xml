@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../KisaanDiaryNew/app/src/main/java/com/carnot/krishe/kisaandiary/activities/newhomescreen/NewHomeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -48,7 +53,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../simha-offline/lib/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/akshaya/res/layout/activity_splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/Realtime/RealtimeActivity.java">
           <value>
             <set />
           </value>
