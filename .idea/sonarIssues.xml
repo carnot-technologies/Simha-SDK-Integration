@@ -3,7 +3,37 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/dummy.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/git proj/rnm_git_petromarketing/app/src/main/java/com/ril/petromarketing/helpers/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KisaanDiaryNew/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KisaanDiaryNew/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../KisaanDiaryNew/app/src/main/java/com/carnot/krishe/kisaandiary/activities/newhomescreen/NewHomeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KisaanDiaryNew/app/src/main/java/com/carnot/krishe/kisaandiary/activities/splash/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KisaanDiaryNew/app/src/main/java/com/carnot/krishe/kisaandiary/database/KisaanDiaryDataBase.kt">
           <value>
             <set />
           </value>
@@ -38,6 +68,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/carnot/traclytics/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/carnot/traclytics/MyApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -63,6 +108,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/app/src/main/java/com/carnot/traclytics/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../simha-offline/build.gradle">
           <value>
             <set />
@@ -73,7 +128,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../simha-offline/lib/src/akshaya/res/layout/activity_splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/akshaya/res/xml/pref_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/MyApplication.java">
           <value>
             <set />
           </value>
@@ -83,7 +153,67 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/AddTractorActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/EditTractorProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/HomeScreen/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/HomeScreen/HomePresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/MapsScreen/TripsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/Realtime/RealtimeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/Settings/LogoutForLib.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/Settings/SettingsActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/activities/newScreens/Settings/SubscriptionDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/java/com/carnot/lib/traclytics/base/BaseLanguageActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/main/res/xml/pref_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../simha-offline/lib/src/simha/res/xml/pref_main.xml">
           <value>
             <set />
           </value>

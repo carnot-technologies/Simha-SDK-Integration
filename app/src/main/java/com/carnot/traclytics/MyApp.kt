@@ -1,4 +1,4 @@
-package com.carnot.simhasdkintegration
+package com.carnot.traclytics
 
 import com.carnot.lib.traclytics.MyApplication
 import timber.log.Timber
