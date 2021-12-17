@@ -3,10 +3,12 @@ package com.carnot.traclytics
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import com.carnot.lib.traclytics.activities.SplashActivity
 import com.carnot.lib.traclytics.activities.newScreens.Settings.LogoutForLib
 import com.carnot.lib.traclytics.activities.newScreens.Settings.SettingsActivity
+import com.google.firebase.installations.FirebaseInstallations
 import io.reactivex.disposables.Disposable
 import l.h
 
@@ -61,7 +63,7 @@ class MainActivity : Activity() {
             putExtra(INTENT_APP_SOURCE, "akshaya-agri")
             putExtra(INTENT_PACKAGE_NAME, "akshaya.agri")
             putExtra(INTENT_API_KEY, "f47ef9dc16ff4605a881a39dc7c4086a") // API-key used to call Carnot Simha api's
-            putExtra(INTENT_PHONE, "9833840334")
+            putExtra(INTENT_PHONE, "8956739110")
         })
     }
 
