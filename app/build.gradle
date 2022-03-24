@@ -5,6 +5,7 @@ plugins {
     id 'kotlin-android-extensions'
     id 'kotlin-kapt'
     id 'realm-android'
+    id 'com.google.firebase.crashlytics'
 }
 
 android {
@@ -62,7 +63,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
 
-    implementation 'com.github.carnot-technologies.smart-tractor-app:simha-sdk-akshaya:v29.31.r.lib'
+    implementation 'com.github.carnot-technologies.smart-tractor-app:simha-sdk-akshaya:v29.37.r.lib'
     implementation platform('com.google.firebase:firebase-bom:26.5.0')
     implementation 'com.google.firebase:firebase-messaging'
     implementation 'com.clevertap.android:clevertap-android-sdk:4.2.0'
