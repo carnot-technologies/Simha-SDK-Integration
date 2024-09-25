@@ -2,15 +2,14 @@ plugins {
     id 'com.android.application'
     id 'com.google.gms.google-services'
     id 'kotlin-android'
-    id 'kotlin-android-extensions'
     id 'kotlin-kapt'
     id 'realm-android'
     id 'com.google.firebase.crashlytics'
 }
 
 android {
-    compileSdkVersion 33
-
+    compileSdkVersion 34
+    namespace "com.carnot.traclytics"
     defaultConfig {
         applicationId "com.carnot.traclytics"
         minSdk 21
@@ -52,8 +51,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
 }
 
@@ -63,7 +62,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
 
-    implementation 'com.github.carnot-technologies.krishe-rental-app:simha-sdk-akshaya:v29.48.r.lib'
+    implementation 'com.github.carnot-technologies.krishe-rental-app:simha-sdk-akshaya:v29.56.r.lib'
     implementation platform('com.google.firebase:firebase-bom:26.5.0')
     implementation 'com.google.firebase:firebase-messaging'
     implementation 'com.clevertap.android:clevertap-android-sdk:4.2.0'
@@ -71,7 +70,6 @@ dependencies {
     implementation "androidx.core:core-ktx:+"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
-    implementation 'io.realm:android-adapters:3.0.0'
 
     implementation 'io.reactivex.rxjava2:rxjava:2.2.9'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'

@@ -36,7 +36,7 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        LogoutForLib.performLogoutFromSettings(this, object: h {
+        LogoutForLib.performLogoutFromSettings(this, object: k.h {
             override fun onSubscribe(disposable: Disposable?) {
                 super.onSubscribe(disposable)
             }
